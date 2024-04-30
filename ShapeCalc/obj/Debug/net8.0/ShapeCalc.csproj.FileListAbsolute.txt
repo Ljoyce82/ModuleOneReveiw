@@ -1,0 +1,14 @@
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\bin\Debug\net8.0\ShapeCalc.exe
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\bin\Debug\net8.0\ShapeCalc.deps.json
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\bin\Debug\net8.0\ShapeCalc.runtimeconfig.json
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\bin\Debug\net8.0\ShapeCalc.dll
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\bin\Debug\net8.0\ShapeCalc.pdb
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\obj\Debug\net8.0\ShapeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\obj\Debug\net8.0\ShapeCalc.AssemblyInfoInputs.cache
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\obj\Debug\net8.0\ShapeCalc.AssemblyInfo.cs
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\obj\Debug\net8.0\ShapeCalc.csproj.CoreCompileInputs.cache
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\obj\Debug\net8.0\ShapeCalc.dll
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\obj\Debug\net8.0\refint\ShapeCalc.dll
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\obj\Debug\net8.0\ShapeCalc.pdb
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\obj\Debug\net8.0\ShapeCalc.genruntimeconfig.cache
+C:\Users\mytra\OneDrive\Desktop\repos\ShapeCalc\ShapeCalc\obj\Debug\net8.0\ref\ShapeCalc.dll
